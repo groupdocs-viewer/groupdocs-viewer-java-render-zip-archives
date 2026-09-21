@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.groupdocs</groupId>
             <artifactId>groupdocs-viewer</artifactId>
-            <version>25.12</version>
+            <version>26.9</version>
         </dependency>
     </dependencies>
 
